@@ -41,6 +41,9 @@ O objetivo é estudar o desempenho de cada algoritmo em diferentes tipos de veto
 
 1. Clone ou baixe o projeto.
 2. Instale a dependência `prompt-sync` caso não tenha:
+3. Inicie com o node
 
 ```bash
 npm install prompt-sync
+
+
